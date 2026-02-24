@@ -6,10 +6,10 @@ export class prueba {
     //constructor
     constructor (page:Page){
 
-}
+    }
 
-//métodos
-async prueba(){
-    
-}
+    //métodos
+    async prueba(){
+        
+    }
 }
